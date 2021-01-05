@@ -1,0 +1,36 @@
+#!-- PPO FILE GENERATED FROM Saia®  S-Web Editor on Wednesday, June 05, 2013 ; 11:58:20
+#!-- Start PPO INIT File
+#!-- VERSION = 3
+#!-- TYPE = 2
+#!-- TS = 51af0bbc
+#!-- N = 28
+CFG-DHCP,Enable;CFG-DHCP,Enable; ; ; ; ; ;
+CFG-SBus,Address;CFG-SBus,Address; ; ; ; ; ;
+CFG-TcpIp_0,Address;CFG-TcpIp_0,Address; ; ; ; ; ;
+CFG-TcpIp_0,Gateway;CFG-TcpIp_0,Gateway; ; ; ; ; ;
+CFG-TcpIp_0,SubnetMask;CFG-TcpIp_0,SubnetMask; ; ; ; ; ;
+CFG-eDisplay,Contrast;CFG-eDisplay,Contrast; ; ;STRING; ; ;
+CFG-eDisplay,EscapeTimeout;CFG-eDisplay,EscapeTimeout; ; ;STRING; ; ;
+CFG-eDisplay,LightTimeout;CFG-eDisplay,LightTimeout; ; ;STRING; ; ;
+CFG-eDisplay,SetupTimeout;CFG-eDisplay,SetupTimeout; ; ;STRING; ; ;
+CFG-eDisplay,SleepRefreshTime;CFG-eDisplay,SleepRefreshTime; ; ;STRING; ; ;
+CFG-eDisplay,SleepTimeout;CFG-eDisplay,SleepTimeout; ; ;STRING; ; ;
+CFG-eDisplay,StartPage;CFG-eDisplay,StartPage; ; ;STRING; ; ;
+NT-Config,Save;NT-Config,Save; ; ; ; ; ;
+SYS-Cpu,FWVersion;SYS-Cpu,FWVersion; ; ;STRING; ; ;
+SYS-Cpu,HWProdDate;SYS-Cpu,HWProdDate; ; ;STRING; ; ;
+SYS-Cpu,HWVersion;SYS-Cpu,HWVersion; ; ;STRING; ; ;
+SYS-Cpu,MAC;SYS-Cpu,MAC; ; ;STRING; ; ;
+SYS-Cpu,SerialNumber;SYS-Cpu,SerialNumber; ; ;STRING; ; ;
+SYS-Cpu,Type;SYS-Cpu,Type; ; ;STRING; ; ;
+SYS-DHCP,AssignedGTWAddr;SYS-DHCP,AssignedGTWAddr; ; ; ; ; ;
+SYS-DHCP,AssignedIPAddr;SYS-DHCP,AssignedIPAddr; ; ; ; ; ;
+SYS-DHCP,AssignedIPMask;SYS-DHCP,AssignedIPMask; ; ; ; ; ;
+SYS-Pcd,ProgramName;SYS-Pcd,ProgramName; ; ;STRING; ; ;
+SYS-Pcd,Status;SYS-Pcd,Status; ; ;STRING; ; ;
+SYS-Rtc,Date;SYS-Rtc,Date; ; ;STRING; ; ;
+SYS-Rtc,Time;SYS-Rtc,Time; ; ;STRING; ; ;
+SYS-eDisplay,NewConfig;SYS-eDisplay,NewConfig; ; ;STRING; ; ;
+SYS-eDisplay,Save;SYS-eDisplay,Save; ; ;STRING; ; ;
+#!-- End PPO INIT File
+
